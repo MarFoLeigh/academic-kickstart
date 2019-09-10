@@ -24,7 +24,7 @@ interests:
 - stuff and such
 
 education:
-  - BSocSci Joint Honours in Political Science and History, University of Ottawa, 2018. 
+- BSocSci Joint Honours in Political Science and History, University of Ottawa, 2018. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
