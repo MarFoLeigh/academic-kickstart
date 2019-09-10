@@ -15,3 +15,10 @@ image: ""
 ---
 
 # look! a post is here! 
+This is a post example. 
+
++ bullet point 
++ bullet point 
+
+## subheading? 
+here is more text 
