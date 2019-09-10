@@ -18,22 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include stuff and such
+bio: My research interests include Canadian history, deindustrialization/gentrification studies, place studies, and digital humanities
 
 interests:
 - stuff and such
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - BSocSci Joint Honours in Political Science and History, University of Ottawa, 2018. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,14 +49,14 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "MarissaFoley@cmail.carleton.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
 Marissa Foley is a student in Guerrilla Digital Public History at Carleton University. Is this thing on?  
