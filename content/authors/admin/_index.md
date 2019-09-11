@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: MA Public History, Specialization in Digital Humanities
 
 # Organizations/Affiliations
 organizations:
@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include Canadian history, deindustrialization/gentrification studies, place studies, and digital humanities
 
 interests:
-- stuff and such
+- Making and breaking things
 
 education:
-- BSocSci Joint Honours in Political Science and History, University of Ottawa, 2018. 
+- B.SocSci Joint Honours in Political Science and History, University of Ottawa, 2018. 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -50,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "MarissaFoley@cmail.carleton.ca"
+# email: "MarissaFoley@cmail.carleton.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
